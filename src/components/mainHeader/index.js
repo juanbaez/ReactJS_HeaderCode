@@ -166,7 +166,7 @@ class PrimarySearchAppBar extends React.Component {
 
     return (
       <div className={classes.root}>
-        <AppBar position="static" color='#ffffff'>
+        <AppBar position="static" color='#ff8f00'>
           <Toolbar>
             <Typography className={classes.title} variant="h5" color="inherit" noWrap>
               Ajuste de Marcaciones
